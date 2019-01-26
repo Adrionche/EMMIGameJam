@@ -1246,3 +1246,284 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.26-00.21.21:808][652]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
 [2019.01.26-00.21.29:614][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.01.26-00.21.30:016][121]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/MotionControllerMapDA83819D46688C9376549AAD273A3FAE.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.01.26-00.53.18:541][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-00.55.56:977][909]LogEditorViewport: Clicking on Actor (LMB): OrbDirZone_C (OrbDirZone)
+[2019.01.26-00.55.59:322][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-01.02.54:645][691]LogEditorViewport: Clicking on Actor (LMB): OrbSpawnZone_C (Zone)
+[2019.01.26-01.02.59:732][989]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-01.04.04:210][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-01.04.05:405][925]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-01.10.01:576][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.10.03:527][ 79]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-01.10.19:483][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-01.10.57:348][746]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-01.11.06:509][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.11.06:670][212]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/WaterOrb.WaterOrb
+[2019.01.26-01.11.46:905][159]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/MotionControllerMap_Auto232EBDDAA4799E6B4BF283C9B5932864B.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2019.01.26-01.11.46:912][159]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.426
+[2019.01.26-01.11.46:912][159]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.426
+[2019.01.26-01.11.46:915][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FireOrb] ([1] browsable assets)...
+[2019.01.26-01.11.46:926][159]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FireOrb.FireOrb]
+[2019.01.26-01.11.46:926][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FireOrb]
+[2019.01.26-01.11.46:969][159]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/FireOrb_Auto23451EE9841586B57CDBA4AA8792CE826.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/Blueprints/FireOrb_Auto2.uasset'
+[2019.01.26-01.11.46:971][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WaterOrb] ([1] browsable assets)...
+[2019.01.26-01.11.46:981][159]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WaterOrb.WaterOrb]
+[2019.01.26-01.11.46:981][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WaterOrb]
+[2019.01.26-01.11.47:023][159]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/WaterOrb_Auto2CB3B81C6466819B9A94623854D0779B6.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/Blueprints/WaterOrb_Auto2.uasset'
+[2019.01.26-01.11.47:025][159]LogFileHelpers: Auto-saving content packages took 0.111
+[2019.01.26-01.11.47:918][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.12.06:762][727]BlueprintLog: New page: Compile WaterOrb
+[2019.01.26-01.12.11:868][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.12.12:010][988]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EarthOrb.EarthOrb
+[2019.01.26-01.12.26:147][625]BlueprintLog: New page: Compile EarthOrb
+[2019.01.26-01.13.07:365][453]BlueprintLog: New page: Compile OrbSpawnZone
+[2019.01.26-01.13.11:447][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.13.11:514][656]LogTemp: Repeating last play command: Simulate
+[2019.01.26-01.13.11:548][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.13.11:549][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-01.13.11:550][656]PIE: New page: SIE session: MotionControllerMap (26 janv. 2019 03:13:11)
+[2019.01.26-01.13.11:550][656]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.01.26-01.13.11:564][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014095s)
+[2019.01.26-01.13.11:565][656]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.26-01.13.11:565][656]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2019.01.26-01.13.11:565][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.015070s)
+[2019.01.26-01.13.11:611][656]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-01.13.11:634][656]LogInit: FAudioDevice initialized.
+[2019.01.26-01.13.11:669][656]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-01.13.11:669][656]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-01.13.11:672][656]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.01.26-02.13.11
+[2019.01.26-01.13.11:672][656]LogWorld: Bringing up level for play took: 0.002440
+[2019.01.26-01.13.11:685][656]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-01.13.11:689][656]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0,753
+[2019.01.26-01.13.11:698][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.13.24:954][451]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.13.24:957][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.13.24:992][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-01.13.24:992][451]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.13.25:026][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.13.25:059][453]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.01.26-01.13.33:697][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-01.14.43:888][206]BlueprintLog: New page: Compile OrbSpawnZone
+[2019.01.26-01.14.48:566][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.14.48:648][455]LogTemp: Repeating last play command: Simulate
+[2019.01.26-01.14.48:682][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.14.48:682][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-01.14.48:682][455]PIE: New page: SIE session: MotionControllerMap (26 janv. 2019 03:14:48)
+[2019.01.26-01.14.48:682][455]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.01.26-01.14.48:694][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011199s)
+[2019.01.26-01.14.48:694][455]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.26-01.14.48:694][455]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2019.01.26-01.14.48:694][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.012019s)
+[2019.01.26-01.14.48:742][455]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-01.14.48:765][455]LogInit: FAudioDevice initialized.
+[2019.01.26-01.14.48:806][455]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-01.14.48:806][455]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-01.14.48:809][455]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.01.26-02.14.48
+[2019.01.26-01.14.48:809][455]LogWorld: Bringing up level for play took: 0.002388
+[2019.01.26-01.14.48:821][455]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-01.14.48:825][455]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0,383
+[2019.01.26-01.14.48:828][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.15.31:872][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.15.31:872][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.15.31:914][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-01.15.31:914][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.15.31:948][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.15.31:983][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.01.26-01.15.38:989][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-01.16.02:191][399]BlueprintLog: New page: Compile EarthOrb
+[2019.01.26-01.16.03:954][474]BlueprintLog: New page: Compile WaterOrb
+[2019.01.26-01.16.05:090][520]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-01.16.37:911][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.16.37:977][464]LogTemp: Repeating last play command: Simulate
+[2019.01.26-01.16.38:078][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.16.38:078][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-01.16.38:078][464]PIE: New page: SIE session: MotionControllerMap (26 janv. 2019 03:16:38)
+[2019.01.26-01.16.38:078][464]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.01.26-01.16.38:091][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012634s)
+[2019.01.26-01.16.38:091][464]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.26-01.16.38:092][464]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2019.01.26-01.16.38:092][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.013496s)
+[2019.01.26-01.16.38:139][464]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-01.16.38:162][464]LogInit: FAudioDevice initialized.
+[2019.01.26-01.16.38:194][464]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-01.16.38:194][464]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-01.16.38:197][464]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.01.26-02.16.38
+[2019.01.26-01.16.38:197][464]LogWorld: Bringing up level for play took: 0.002270
+[2019.01.26-01.16.38:209][464]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-01.16.38:214][464]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0,229
+[2019.01.26-01.16.38:216][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.17.01:538][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.17.01:538][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.17.01:576][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-01.17.01:576][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.17.01:616][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.17.01:653][865]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.01.26-01.17.09:503][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.17.17:031][578]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-01.17.20:549][747]BlueprintLog: New page: Compile WaterOrb
+[2019.01.26-01.17.24:021][914]BlueprintLog: New page: Compile EarthOrb
+[2019.01.26-01.17.27:137][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.17.27:204][ 82]LogTemp: Repeating last play command: Simulate
+[2019.01.26-01.17.27:228][ 82]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.17.27:228][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-01.17.27:228][ 82]PIE: New page: SIE session: MotionControllerMap (26 janv. 2019 03:17:27)
+[2019.01.26-01.17.27:229][ 82]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.01.26-01.17.27:239][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010830s)
+[2019.01.26-01.17.27:240][ 82]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.26-01.17.27:240][ 82]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2019.01.26-01.17.27:240][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011719s)
+[2019.01.26-01.17.27:289][ 82]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-01.17.27:310][ 82]LogInit: FAudioDevice initialized.
+[2019.01.26-01.17.27:340][ 82]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-01.17.27:340][ 82]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-01.17.27:343][ 82]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.01.26-02.17.27
+[2019.01.26-01.17.27:343][ 82]LogWorld: Bringing up level for play took: 0.002337
+[2019.01.26-01.17.27:356][ 82]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-01.17.27:359][ 82]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0,917
+[2019.01.26-01.17.27:361][ 82]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.19.01:981][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.19.01:981][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.19.02:023][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-01.19.02:023][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.19.02:063][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.19.02:083][745]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.01.26-01.19.06:889][ 14]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/MotionControllerMapF19C165C43FA9859860A6EBF189F2FEC.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.01.26-01.27.59:688][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.27.59:771][879]LogTemp: Repeating last play command: Simulate
+[2019.01.26-01.27.59:801][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.27.59:801][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-01.27.59:801][879]PIE: New page: SIE session: MotionControllerMap (26 janv. 2019 03:27:59)
+[2019.01.26-01.27.59:802][879]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.01.26-01.27.59:816][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014424s)
+[2019.01.26-01.27.59:817][879]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.26-01.27.59:817][879]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2019.01.26-01.27.59:817][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.015360s)
+[2019.01.26-01.27.59:866][879]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-01.27.59:891][879]LogInit: FAudioDevice initialized.
+[2019.01.26-01.27.59:920][879]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-01.27.59:920][879]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-01.27.59:923][879]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.01.26-02.27.59
+[2019.01.26-01.27.59:923][879]LogWorld: Bringing up level for play took: 0.002394
+[2019.01.26-01.27.59:935][879]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-01.27.59:940][879]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0,503
+[2019.01.26-01.27.59:942][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.28.26:321][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.28.26:321][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.28.26:365][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-01.28.26:366][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.28.26:405][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.28.26:421][459]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.01.26-01.29.33:281][463]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.035
+[2019.01.26-01.29.33:282][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/OrbSpawnZone] ([1] browsable assets)...
+[2019.01.26-01.29.33:282][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/OrbSpawnZone]
+[2019.01.26-01.29.33:338][463]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/OrbSpawnZone_Auto3CBBBBB5F4C867C5C9284EA82BC7D8FE4.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/Blueprints/OrbSpawnZone_Auto3.uasset'
+[2019.01.26-01.29.33:340][463]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EarthOrb] ([1] browsable assets)...
+[2019.01.26-01.29.33:352][463]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EarthOrb.EarthOrb]
+[2019.01.26-01.29.33:352][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EarthOrb]
+[2019.01.26-01.29.33:394][463]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/EarthOrb_Auto304F018D540B64DFC08776F9A5DDDADF9.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/Blueprints/EarthOrb_Auto3.uasset'
+[2019.01.26-01.29.33:396][463]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FireOrb] ([1] browsable assets)...
+[2019.01.26-01.29.33:408][463]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FireOrb.FireOrb]
+[2019.01.26-01.29.33:408][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FireOrb]
+[2019.01.26-01.29.33:477][463]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/FireOrb_Auto3764F48AF4013AFAD252638BB32F1E290.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/Blueprints/FireOrb_Auto3.uasset'
+[2019.01.26-01.29.33:478][463]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WaterOrb] ([1] browsable assets)...
+[2019.01.26-01.29.33:489][463]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WaterOrb.WaterOrb]
+[2019.01.26-01.29.33:489][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WaterOrb]
+[2019.01.26-01.29.33:534][463]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/WaterOrb_Auto3C55ADB794EA6357D524C8B91EC78A972.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/Blueprints/WaterOrb_Auto3.uasset'
+[2019.01.26-01.29.33:536][463]LogFileHelpers: Auto-saving content packages took 0.255
+[2019.01.26-01.30.53:081][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.30.53:130][238]LogTemp: Repeating last play command: Simulate
+[2019.01.26-01.30.53:157][238]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.30.53:158][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-01.30.53:158][238]PIE: New page: SIE session: MotionControllerMap (26 janv. 2019 03:30:53)
+[2019.01.26-01.30.53:158][238]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.01.26-01.30.53:169][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011155s)
+[2019.01.26-01.30.53:170][238]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.26-01.30.53:170][238]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2019.01.26-01.30.53:170][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.012178s)
+[2019.01.26-01.30.53:217][238]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-01.30.53:239][238]LogInit: FAudioDevice initialized.
+[2019.01.26-01.30.53:273][238]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-01.30.53:273][238]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-01.30.53:276][238]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.01.26-02.30.53
+[2019.01.26-01.30.53:276][238]LogWorld: Bringing up level for play took: 0.002315
+[2019.01.26-01.30.53:288][238]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-01.30.53:291][238]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0,849
+[2019.01.26-01.30.53:294][238]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.31.40:920][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.31.40:920][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.31.40:960][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-01.31.40:960][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.31.41:003][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.31.41:021][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.01.26-01.45.15:131][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.47.45:847][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-01.47.46:451][914]LogTemp: Repeating last play command: Simulate
+[2019.01.26-01.47.46:507][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.47.46:507][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-01.47.46:507][914]PIE: New page: SIE session: MotionControllerMap (26 janv. 2019 03:47:46)
+[2019.01.26-01.47.46:508][914]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.01.26-01.47.46:534][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025942s)
+[2019.01.26-01.47.46:536][914]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.26-01.47.46:537][914]LogPlayLevel: PIE: World Init took: (0.002715s)
+[2019.01.26-01.47.46:537][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.028979s)
+[2019.01.26-01.47.46:623][914]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-01.47.46:663][914]LogInit: FAudioDevice initialized.
+[2019.01.26-01.47.46:718][914]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-01.47.46:718][914]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-01.47.46:721][914]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.01.26-02.47.46
+[2019.01.26-01.47.46:722][914]LogWorld: Bringing up level for play took: 0.003127
+[2019.01.26-01.47.46:736][914]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-01.47.46:741][914]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0,299
+[2019.01.26-01.47.46:749][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.48.04:889][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.48.04:890][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.48.04:962][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-01.48.04:963][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.48.05:038][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.48.05:101][645]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.01.26-01.48.53:112][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EarthOrb" FILE="../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Content/Blueprints/EarthOrb.uasset" SILENT=true
+[2019.01.26-01.48.53:181][742]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/EarthOrb5AF212B142C2971322CB689AE939566A.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Content/Blueprints/EarthOrb.uasset'
+[2019.01.26-01.48.55:304][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.48.55:394][820]BlueprintLog: New page: Compile EarthOrb
+[2019.01.26-01.49.03:148][ 76]BlueprintLog: New page: Compile WaterOrb
+[2019.01.26-01.49.11:510][357]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-01.49.14:308][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-01.49.14:376][467]LogTemp: Repeating last play command: Simulate
+[2019.01.26-01.49.14:410][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.49.14:410][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-01.49.14:410][467]PIE: New page: SIE session: MotionControllerMap (26 janv. 2019 03:49:14)
+[2019.01.26-01.49.14:411][467]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.01.26-01.49.14:422][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011069s)
+[2019.01.26-01.49.14:423][467]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.26-01.49.14:423][467]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2019.01.26-01.49.14:423][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.012977s)
+[2019.01.26-01.49.14:482][467]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-01.49.14:513][467]LogInit: FAudioDevice initialized.
+[2019.01.26-01.49.14:553][467]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-01.49.14:553][467]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-01.49.14:556][467]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.01.26-02.49.14
+[2019.01.26-01.49.14:558][467]LogWorld: Bringing up level for play took: 0.004310
+[2019.01.26-01.49.14:571][467]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-01.49.14:574][467]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0,132
+[2019.01.26-01.49.14:577][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.49.26:630][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.49.26:631][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.49.26:673][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-01.49.26:674][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.01.26-01.49.26:721][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-01.49.26:748][105]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.01.26-01.50.52:670][995]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/MotionControllerMap_Auto4A52817674E783E9FE6E60890FE60A7D2.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto4.umap'
+[2019.01.26-01.50.52:675][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.395
+[2019.01.26-01.50.52:675][995]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.395
+[2019.01.26-01.50.52:677][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/OrbSpawnZone] ([1] browsable assets)...
+[2019.01.26-01.50.52:677][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/OrbSpawnZone]
+[2019.01.26-01.50.52:745][995]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/OrbSpawnZone_Auto405736D874656832FF82618A24B26E16B.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/Blueprints/OrbSpawnZone_Auto4.uasset'
+[2019.01.26-01.50.52:747][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FireOrb] ([1] browsable assets)...
+[2019.01.26-01.50.52:760][995]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FireOrb.FireOrb]
+[2019.01.26-01.50.52:760][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FireOrb]
+[2019.01.26-01.50.52:823][995]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/FireOrb_Auto47028D5744CEB5A99BAE5A090D4CC5CA4.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/Blueprints/FireOrb_Auto4.uasset'
+[2019.01.26-01.50.52:825][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WaterOrb] ([1] browsable assets)...
+[2019.01.26-01.50.52:836][995]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WaterOrb.WaterOrb]
+[2019.01.26-01.50.52:836][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WaterOrb]
+[2019.01.26-01.50.52:897][995]LogSavePackage: Moving '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/WaterOrb_Auto412695D36456401102169E2A05CE396BB.tmp' to '../../../../../../Users/Adrien/Documents/GitHub/EMMIGameJam/EMMI/Saved/Autosaves/Game/Blueprints/WaterOrb_Auto4.uasset'
+[2019.01.26-01.50.52:899][995]LogFileHelpers: Auto-saving content packages took 0.222
