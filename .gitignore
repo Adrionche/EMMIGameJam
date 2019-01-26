@@ -46,7 +46,7 @@
 
 # Precompiled Assets
 EMMI/SourceArt/**/*.png
-SourceArt/**/*.tga
+EMMI/SourceArt/**/*.tga
 
 # Binary Files
 EMMI/Binaries/*
