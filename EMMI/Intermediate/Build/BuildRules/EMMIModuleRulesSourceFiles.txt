@@ -1,1 +1,0 @@
-D:\EMMIGameJam\EMMI\Plugins\SpeechRecognition\Source\SpeechRecognition\SpeechRecognition.Build.cs
