@@ -1,0 +1,1196 @@
+﻿Log file open, 01/26/19 03:50:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EMMI
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.274737
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Warning: Engine version string in D:/EMMIGameJam/EMMI/Plugins/SpeechRecognition/SpeechRecognition.uplugin could not be parsed ("4.18")
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin SpeechRecognition
+LogStreaming: Display: Took  0.059s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Engine.ini]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Engine.ini]
+[2019.01.26-02.50.49:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Engine.ini]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Engine.ini]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.26-02.50.49:658][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.26-02.50.49:659][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.26-02.50.49:659][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.26-02.50.49:659][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.26-02.50.49:659][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.26-02.50.49:659][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.26-02.50.49:659][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.26-02.50.49:659][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.26-02.50.49:659][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.26-02.50.49:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Engine.ini]
+[2019.01.26-02.50.49:659][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Engine.ini]
+[2019.01.26-02.50.49:661][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.26-02.50.49:661][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.26-02.50.49:662][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.26-02.50.49:662][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.26-02.50.49:662][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.26-02.50.49:667][  0]LogHAL: Display: Platform has ~ 16 GB [17137598464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.26-02.50.49:667][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.26-02.50.49:667][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.26-02.50.49:667][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:667][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.26-02.50.49:667][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.26-02.50.49:667][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:667][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.26-02.50.49:668][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.26-02.50.49:669][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.26-02.50.49:669][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/EMMIGameJam/EMMI/Saved/Config/Windows/Engine.ini]
+[2019.01.26-02.50.49:669][  0]LogInit: Computer: PC_MATERIEL_NET
+[2019.01.26-02.50.49:669][  0]LogInit: User: natoles
+[2019.01.26-02.50.49:669][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.26-02.50.49:669][  0]LogInit: High frequency timer resolution =3.914062 MHz
+[2019.01.26-02.50.49:669][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.26-02.50.49:669][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.26-02.50.49:669][  0]LogMemory: Process Physical Memory: 102.05 MB used, 102.05 MB peak
+[2019.01.26-02.50.49:669][  0]LogMemory: Process Virtual Memory: 91.38 MB used, 91.38 MB peak
+[2019.01.26-02.50.49:669][  0]LogMemory: Physical Memory: 5445.27 MB used,  10898.41 MB free, 16343.69 MB total
+[2019.01.26-02.50.49:669][  0]LogMemory: Virtual Memory: 4638.35 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.01.26-02.50.49:688][  0]LogInit: Using OS detected language (fr-FR).
+[2019.01.26-02.50.49:688][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.01.26-02.50.49:689][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.01.26-02.50.49:691][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2019.01.26-02.50.49:691][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.26-02.50.49:719][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.26-02.50.49:719][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.26-02.50.52:100][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.26-02.50.52:158][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.01.26-02.50.52:158][  0]LogD3D11RHI:       8086/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.26-02.50.52:161][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.26-02.50.52:161][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.26-02.50.52:161][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.26-02.50.52:168][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.26-02.50.52:168][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.26-02.50.52:168][  0]LogWindows: EnumDisplayDevices:
+[2019.01.26-02.50.52:168][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.01.26-02.50.52:169][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.26-02.50.52:170][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.26-02.50.52:170][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.26-02.50.52:171][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.26-02.50.52:171][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.01.26-02.50.52:171][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.01.26-02.50.52:171][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.01.26-02.50.52:171][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2019.01.26-02.50.52:205][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.26-02.50.52:217][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.01.26-02.50.52:882][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.26-02.50.52:898][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.26-02.50.52:915][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.26-02.50.52:937][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.26-02.50.52:959][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.26-02.50.52:982][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.26-02.50.53:004][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.26-02.50.53:026][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.26-02.50.53:037][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-02.50.53:153][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.26-02.50.53:215][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.26-02.50.53:215][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.26-02.50.53:241][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.26-02.50.53:241][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.26-02.50.53:253][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.26-02.50.53:264][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.26-02.50.53:278][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.26-02.50.53:294][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.26-02.50.53:343][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.26-02.50.53:343][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.26-02.50.53:343][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.26-02.50.53:418][  0]LogShaderCompilers: Guid format shader working directory is 29 characters bigger than the processId version (D:/EMMIGameJam/EMMI/Intermediate/Shaders/WorkingDirectory/3904/).
+[2019.01.26-02.50.53:418][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/natoles/AppData/Local/Temp/UnrealShaderWorkingDir/58DA36A94E1C3449954CB5A670B1B91A/'.
+[2019.01.26-02.50.53:422][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.26-02.50.53:422][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.26-02.50.53:422][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.26-02.50.53:928][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.26-02.50.53:974][  0]LogDerivedDataCache: Loaded boot cache 0.05s 72MB C:/Users/natoles/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.26-02.50.53:974][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/natoles/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.26-02.50.53:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/EMMIGameJam/EMMI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.26-02.50.53:974][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.26-02.50.53:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/EMMIGameJam/EMMI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.26-02.50.53:974][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.26-02.50.53:986][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.26-02.50.53:986][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.26-02.50.53:986][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.26-02.50.53:998][  0]LogDerivedDataCache: Using Local data cache path C:/Users/natoles/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.26-02.50.53:998][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.26-02.50.53:998][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.26-02.50.54:019][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.26-02.50.54:020][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.26-02.50.54:021][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.26-02.50.54:113][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2019.01.26-02.50.54:413][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.26-02.50.54:547][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.26-02.50.54:551][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.26-02.50.54:551][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.26-02.50.54:551][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.26-02.50.54:551][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.26-02.50.54:567][  0]LogNetVersion: EMMI 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4192578657)
+[2019.01.26-02.50.55:044][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.074975 seconds
+[2019.01.26-02.50.55:050][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.26-02.50.55:050][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.01.26-02.50.55:050][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.26-02.50.56:051][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.26-02.50.56:063][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.26-02.50.56:891][  0]SourceControl: Source control is disabled
+[2019.01.26-02.50.56:891][  0]SourceControl: Source control is disabled
+[2019.01.26-02.50.56:892][  0]SourceControl: Source control is disabled
+[2019.01.26-02.50.56:894][  0]SourceControl: Source control is disabled
+[2019.01.26-02.50.57:058][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.26-02.50.57:215][  0]LogOcInput: OculusInput pre-init called
+[2019.01.26-02.50.57:342][  0]LogClass: Warning: FRecognitionPhrase::tolerance is not initialized properly
+[2019.01.26-02.50.57:342][  0]LogClass: Display: 1 Uninitialized script stuct members found
+[2019.01.26-02.50.57:342][  0]LogAutomationTest: Warning: FRecognitionPhrase::tolerance is not initialized properly
+[2019.01.26-02.50.57:345][  0]LogEngine: Initializing Engine...
+[2019.01.26-02.50.57:350][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-DB7DB47A
+[2019.01.26-02.50.57:351][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.26-02.50.57:351][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.26-02.50.57:351][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.26-02.50.57:351][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.26-02.50.57:563][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.26-02.50.57:579][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.26-02.50.57:680][  0]LogInit: XAudio2 using 'Haut-parleurs (8- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-02.50.57:701][  0]LogInit: FAudioDevice initialized.
+[2019.01.26-02.50.57:701][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.26-02.50.57:779][  0]LogDerivedDataCache: Saved boot cache 0.08s 72MB C:/Users/natoles/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.26-02.50.57:791][  0]LogInit: Texture streaming: Enabled
+[2019.01.26-02.50.57:819][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.26-02.50.57:834][  0]LogInit: Transaction tracking system initialized
+[2019.01.26-02.50.57:861][  0]BlueprintLog: New page: Editor Load
+[2019.01.26-02.50.57:947][  0]LocalizationService: Localization service is disabled
+[2019.01.26-02.50.58:348][  0]LogFileCache: Scanning file cache for directory 'D:/EMMIGameJam/EMMI/Content/' took 0.02s
+[2019.01.26-02.50.58:348][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.26-02.50.58:348][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.26-02.50.58:348][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.26-02.50.58:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.26-02.50.58:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.26-02.50.58:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.26-02.50.58:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.26-02.50.58:483][  0]SourceControl: Source control is disabled
+[2019.01.26-02.50.58:483][  0]Cmd: MAP LOAD FILE="D:/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-02.50.58:483][  0]LightingResults: New page: Lighting Build
+[2019.01.26-02.50.58:487][  0]MapCheck: New page: Map Check
+[2019.01.26-02.50.58:487][  0]LightingResults: New page: Lighting Build
+[2019.01.26-02.50.58:566][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbDirZone'
+[2019.01.26-02.50.58:566][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbDirZone' while loading D:/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap.
+[2019.01.26-02.50.58:566][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/MotionControllerMap : Can't find file for asset. /Game/Blueprints/OrbDirZone
+[2019.01.26-02.50.58:566][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbSpawnZone'
+[2019.01.26-02.50.58:567][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbSpawnZone' while loading D:/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap.
+[2019.01.26-02.50.58:567][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/MotionControllerMap : Can't find file for asset. /Game/Blueprints/OrbSpawnZone
+[2019.01.26-02.50.58:819][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbDirZone'
+[2019.01.26-02.50.58:819][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbDirZone' while loading D:/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap.
+[2019.01.26-02.50.58:819][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/MotionControllerMap : Can't find file for asset. /Game/Blueprints/OrbDirZone
+[2019.01.26-02.50.58:819][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbSpawnZone'
+[2019.01.26-02.50.58:819][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbSpawnZone' while loading D:/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap.
+[2019.01.26-02.50.58:819][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/MotionControllerMap : Can't find file for asset. /Game/Blueprints/OrbSpawnZone
+[2019.01.26-02.50.58:824][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbDirZone'
+[2019.01.26-02.50.58:824][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbDirZone' while loading D:/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap.
+[2019.01.26-02.50.58:824][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/MotionControllerMap : Can't find file for asset. /Game/Blueprints/OrbDirZone
+[2019.01.26-02.50.58:824][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbSpawnZone'
+[2019.01.26-02.50.58:824][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbSpawnZone' while loading D:/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap.
+[2019.01.26-02.50.58:824][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/MotionControllerMap : Can't find file for asset. /Game/Blueprints/OrbSpawnZone
+[2019.01.26-02.50.58:825][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbDirZone'
+[2019.01.26-02.50.58:825][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbDirZone' while loading D:/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap.
+[2019.01.26-02.50.58:825][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/MotionControllerMap : Can't find file for asset. /Game/Blueprints/OrbDirZone
+[2019.01.26-02.50.58:825][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbSpawnZone'
+[2019.01.26-02.50.58:825][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbSpawnZone' while loading D:/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/MotionControllerMap.umap.
+[2019.01.26-02.50.58:825][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/MotionControllerMap : Can't find file for asset. /Game/Blueprints/OrbSpawnZone
+[2019.01.26-02.50.58:826][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbDirZone'
+[2019.01.26-02.50.58:826][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbDirZone' while loading NULL.
+[2019.01.26-02.50.58:826][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbSpawnZone'
+[2019.01.26-02.50.58:826][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbSpawnZone' while loading NULL.
+[2019.01.26-02.50.58:826][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbDirZone'
+[2019.01.26-02.50.58:826][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbDirZone' while loading NULL.
+[2019.01.26-02.50.58:826][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbSpawnZone'
+[2019.01.26-02.50.58:826][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbSpawnZone' while loading NULL.
+[2019.01.26-02.50.58:826][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbDirZone'
+[2019.01.26-02.50.58:827][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbDirZone' while loading NULL.
+[2019.01.26-02.50.58:827][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbSpawnZone'
+[2019.01.26-02.50.58:827][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbSpawnZone' while loading NULL.
+[2019.01.26-02.50.58:827][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbDirZone'
+[2019.01.26-02.50.58:827][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbDirZone' while loading NULL.
+[2019.01.26-02.50.58:827][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbSpawnZone'
+[2019.01.26-02.50.58:827][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbSpawnZone' while loading NULL.
+[2019.01.26-02.50.58:830][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbDirZone'
+[2019.01.26-02.50.58:830][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbDirZone' while loading NULL.
+[2019.01.26-02.50.58:830][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbDirZone'
+[2019.01.26-02.50.58:830][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbDirZone' while loading NULL.
+[2019.01.26-02.50.58:831][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbSpawnZone'
+[2019.01.26-02.50.58:831][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbSpawnZone' while loading NULL.
+[2019.01.26-02.50.58:831][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OrbSpawnZone'
+[2019.01.26-02.50.58:831][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OrbSpawnZone' while loading NULL.
+[2019.01.26-02.50.59:112][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.01.26-02.50.59:121][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-02.50.59:145][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-02.50.59:145][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,114ms to complete.
+[2019.01.26-02.50.59:145][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 0.662
+[2019.01.26-02.50.59:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.50.59:258][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.50.59:266][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.50.59:274][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.50.59:283][  0]LogCollectionManager: Loaded 0 collections in 0.002738 seconds
+[2019.01.26-02.50.59:311][  0]LogFileCache: Scanning file cache for directory 'D:/EMMIGameJam/EMMI/Saved/Collections/' took 0.01s
+[2019.01.26-02.50.59:311][  0]LogFileCache: Scanning file cache for directory 'D:/EMMIGameJam/EMMI/Content/Developers/natoles/Collections/' took 0.00s
+[2019.01.26-02.50.59:311][  0]LogFileCache: Scanning file cache for directory 'D:/EMMIGameJam/EMMI/Content/Collections/' took 0.01s
+[2019.01.26-02.50.59:311][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.26-02.50.59:322][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2652 classes and 623 folders.
+[2019.01.26-02.50.59:332][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.26-02.50.59:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-02.50.59:404][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.26-02.50.59:409][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.26-02.50.59:423][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.26-02.50.59:425][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.26-02.50.59:430][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.26-02.50.59:502][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2019.01.26-02.50.59:601][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.26-02.50.59:601][  0]LogLoad: (Engine Initialization) Total time: 11.85 seconds
+[2019.01.26-02.50.59:601][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.26-02.50.59:611][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.26-02.50.59:612][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': OrbDirZone_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.OrbDirZone_2
+[2019.01.26-02.50.59:612][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': OrbSpawnZone_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.Zone_2
+[2019.01.26-02.50.59:612][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': OrbDirZone_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.OrbDirZone_2
+[2019.01.26-02.50.59:612][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': OrbSpawnZone_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.Zone_2
+[2019.01.26-02.50.59:674][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.26-02.50.59:677][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-02.50.59:709][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.26-02.50.59:966][  3]LogAssetRegistry: Asset discovery search completed in 5.8756 seconds
+[2019.01.26-02.50.59:969][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.26-02.50.59:969][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2019.01.26-02.51.01:794][219]LogSlate: Window 'Message Log' being destroyed
+[2019.01.26-02.51.01:798][219]LogSlate: Window 'Message Log' being destroyed
+[2019.01.26-02.51.03:050][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-02.51.04:046][486]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.26-02.51.04:147][486]LogAIModule: Creating AISystem for world BoucliersOrbes
+[2019.01.26-02.51.04:157][486]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes
+[2019.01.26-02.51.04:177][486]Cmd: MAP LOAD FILE="D:/EMMIGameJam/EMMI/Content/VirtualRealityBP/Maps/BoucliersOrbes.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-02.51.04:177][486]LightingResults: New page: Lighting Build
+[2019.01.26-02.51.04:178][486]LoadErrors: New page: Loading map: BoucliersOrbes.umap
+[2019.01.26-02.51.04:178][486]MapCheck: New page: Map Check
+[2019.01.26-02.51.04:178][486]LightingResults: New page: Lighting Build
+[2019.01.26-02.51.04:202][486]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-02.51.04:234][486]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-02.51.04:234][486]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,088ms to complete.
+[2019.01.26-02.51.04:234][486]LogFileHelpers: Loading map 'BoucliersOrbes' took 0.058
+[2019.01.26-02.51.05:871][677]LogTemp: Repeating last play command: VR Preview
+[2019.01.26-02.51.05:878][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.51.05:878][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-02.51.05:878][677]PIE: New page: PIE session: BoucliersOrbes (26 janv. 2019 04:51:05)
+[2019.01.26-02.51.05:890][677]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes
+[2019.01.26-02.51.05:898][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008186s)
+[2019.01.26-02.51.05:898][677]LogAIModule: Creating AISystem for world BoucliersOrbes
+[2019.01.26-02.51.05:899][677]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2019.01.26-02.51.05:899][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes to /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes (0.008895s)
+[2019.01.26-02.51.05:962][677]LogInit: XAudio2 using 'Haut-parleurs (8- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-02.51.05:974][677]LogInit: FAudioDevice initialized.
+[2019.01.26-02.51.05:980][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.51.06:062][677]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-02.51.06:062][677]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-02.51.06:064][677]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes up for play (max tick rate 0) at 2019.01.26-03.51.06
+[2019.01.26-02.51.06:064][677]LogWorld: Bringing up level for play took: 0.001577
+[2019.01.26-02.51.06:081][677]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.01.26-02.51.06:093][677]LogBlueprintUserMessages: [Voice_2] Speech Recognition Init : SUCCESS
+[2019.01.26-02.51.06:098][677]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes 0,929
+[2019.01.26-02.51.06:098][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.51.06:142][678]LogRenderer: Reallocating scene render targets to support 4104x2280 Format 26 NumSamples 1 (Frame:1).
+[2019.01.26-02.51.06:163][679]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.01.26-02.51.06:262][687]SpeechRecognitionPlugin: Speech Recognition has started
+[2019.01.26-02.51.06:609][719]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.51.08:332][872]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.51.11:458][152]SpeechRecognitionPlugin: Word: fire ball Start Time: 4.570 End Time 4.760
+[2019.01.26-02.51.11:458][152]SpeechRecognitionPlugin: fire ball
+[2019.01.26-02.51.11:458][152]SpeechRecognitionPlugin: Phrases: fire ball 
+[2019.01.26-02.51.11:458][152]LogBlueprintUserMessages: [Voice_2] fire ball
+[2019.01.26-02.51.12:238][222]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.51.20:207][934]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.51.23:327][214]SpeechRecognitionPlugin: Word: earth ball Start Time: 15.000 End Time 15.270
+[2019.01.26-02.51.23:327][214]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.51.23:327][214]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.51.23:327][214]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.51.23:639][242]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Word: earth ball Start Time: 30.610 End Time 30.780
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Word: water ball Start Time: 28.300 End Time 28.900
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Word: earth ball Start Time: 28.160 End Time 28.380
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Word: earth ball Start Time: 27.590 End Time 27.780
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Word: fire ball Start Time: 27.450 End Time 27.780
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Word: earth ball Start Time: 24.280 End Time 24.610
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Word: earth ball Start Time: 23.610 End Time 23.930
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Word: water ball Start Time: 20.720 End Time 21.020
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Word: earth ball Start Time: 20.660 End Time 20.870
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Word: water ball Start Time: 18.380 End Time 18.800
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: water ball
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: fire ball
+[2019.01.26-02.51.40:209][725]SpeechRecognitionPlugin: Phrases: fire ball 
+[2019.01.26-02.51.40:209][725]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-02.51.40:209][725]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.51.40:209][725]LogBlueprintUserMessages: [Voice_2] fire ball
+[2019.01.26-02.51.42:713][949]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.51.43:798][ 46]SpeechRecognitionPlugin: Word: earth ball Start Time: 36.490 End Time 36.730
+[2019.01.26-02.51.43:798][ 46]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.51.43:798][ 46]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.51.43:798][ 46]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.51.43:959][ 61]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.51.51:138][703]SpeechRecognitionPlugin: Word: fire ball Start Time: 41.520 End Time 41.950
+[2019.01.26-02.51.51:138][703]SpeechRecognitionPlugin: Word: earth ball Start Time: 41.360 End Time 41.580
+[2019.01.26-02.51.51:138][703]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.51.51:138][703]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.51.51:138][703]SpeechRecognitionPlugin: fire ball
+[2019.01.26-02.51.51:138][703]SpeechRecognitionPlugin: Phrases: fire ball 
+[2019.01.26-02.51.51:138][703]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.51.51:138][703]LogBlueprintUserMessages: [Voice_2] fire ball
+[2019.01.26-02.51.51:297][718]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.51.54:113][970]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.51.56:302][164]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.51.58:327][344]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.52.02:243][677]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.52.03:796][809]SpeechRecognitionPlugin: Word: fire ball Start Time: 56.240 End Time 56.440
+[2019.01.26-02.52.03:796][809]SpeechRecognitionPlugin: Word: water ball Start Time: 56.200 End Time 56.440
+[2019.01.26-02.52.03:796][809]SpeechRecognitionPlugin: water ball
+[2019.01.26-02.52.03:796][809]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-02.52.03:796][809]SpeechRecognitionPlugin: fire ball
+[2019.01.26-02.52.03:796][809]SpeechRecognitionPlugin: Phrases: fire ball 
+[2019.01.26-02.52.03:797][809]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-02.52.03:797][809]LogBlueprintUserMessages: [Voice_2] fire ball
+[2019.01.26-02.52.05:052][876]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.52.11:608][320]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.52.13:378][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.52.13:454][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.52.13:483][478]LogSlate: Window 'EMMI Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.26-02.52.13:529][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-02.52.13:530][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.52.13:572][479]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.26-02.52.27:805][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-02.52.33:614][869]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.01.26-02.52.33:974][869]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.01.26-02.52.34:624][869]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.26-02.52.36:454][994]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.26-02.54.43:358][514]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.01.26-02.54.54:638][735]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Projectile_Zone/FireOrb.FireOrb
+[2019.01.26-02.55.08:070][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-02.55.11:903][320]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-02.56.02:199][ 87]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-02.56.04:282][314]LogTemp: Repeating last play command: VR Preview
+[2019.01.26-02.56.04:295][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.56.04:295][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-02.56.04:295][314]PIE: New page: PIE session: BoucliersOrbes (26 janv. 2019 04:56:04)
+[2019.01.26-02.56.04:295][314]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes
+[2019.01.26-02.56.04:304][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009185s)
+[2019.01.26-02.56.04:305][314]LogAIModule: Creating AISystem for world BoucliersOrbes
+[2019.01.26-02.56.04:305][314]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2019.01.26-02.56.04:305][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes to /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes (0.009875s)
+[2019.01.26-02.56.04:378][314]LogInit: XAudio2 using 'Haut-parleurs (8- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-02.56.04:390][314]LogInit: FAudioDevice initialized.
+[2019.01.26-02.56.04:396][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.56.04:470][314]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-02.56.04:470][314]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-02.56.04:472][314]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes up for play (max tick rate 0) at 2019.01.26-03.56.04
+[2019.01.26-02.56.04:472][314]LogWorld: Bringing up level for play took: 0.002138
+[2019.01.26-02.56.04:496][314]LogBlueprintUserMessages: [Voice_2] Speech Recognition Init : SUCCESS
+[2019.01.26-02.56.04:503][314]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes -0,665
+[2019.01.26-02.56.04:503][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.56.04:563][316]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.01.26-02.56.04:654][325]SpeechRecognitionPlugin: Speech Recognition has started
+[2019.01.26-02.56.04:979][354]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.06:286][470]LogBlueprintUserMessages: [FireOrb_C_0] FALSE
+[2019.01.26-02.56.08:207][641]LogBlueprintUserMessages: [FireOrb_C_0] FALSE
+[2019.01.26-02.56.08:296][649]LogBlueprintUserMessages: [FireOrb_C_1] FALSE
+[2019.01.26-02.56.09:302][739]LogBlueprintUserMessages: [FireOrb_C_2] FALSE
+[2019.01.26-02.56.10:195][819]LogBlueprintUserMessages: [FireOrb_C_1] FALSE
+[2019.01.26-02.56.11:211][910]LogBlueprintUserMessages: [FireOrb_C_2] FALSE
+[2019.01.26-02.56.13:322][ 99]LogBlueprintUserMessages: [FireOrb_C_3] FALSE
+[2019.01.26-02.56.14:327][189]LogBlueprintUserMessages: [FireOrb_C_4] FALSE
+[2019.01.26-02.56.15:243][271]LogBlueprintUserMessages: [FireOrb_C_3] FALSE
+[2019.01.26-02.56.15:333][279]LogBlueprintUserMessages: [FireOrb_C_5] FALSE
+[2019.01.26-02.56.16:193][356]LogBlueprintUserMessages: [FireOrb_C_4] FALSE
+[2019.01.26-02.56.17:231][449]LogBlueprintUserMessages: [FireOrb_C_5] FALSE
+[2019.01.26-02.56.17:481][472]SpeechRecognitionPlugin: Word: water ball Start Time: 10.090 End Time 10.330
+[2019.01.26-02.56.17:481][472]SpeechRecognitionPlugin: Word: water ball Start Time: 9.580 End Time 9.880
+[2019.01.26-02.56.17:481][472]SpeechRecognitionPlugin: Word: earth ball Start Time: 9.550 End Time 9.700
+[2019.01.26-02.56.17:481][472]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.56.17:481][472]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.56.17:481][472]SpeechRecognitionPlugin: water ball
+[2019.01.26-02.56.17:481][472]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-02.56.17:481][472]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.56.17:481][472]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-02.56.18:114][528]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.19:822][681]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.22:793][947]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.24:381][ 89]LogBlueprintUserMessages: [FireOrb_C_6] FALSE
+[2019.01.26-02.56.25:142][158]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.25:409][181]LogBlueprintUserMessages: [FireOrb_C_6] FALSE
+[2019.01.26-02.56.26:280][259]LogBlueprintUserMessages: [FireOrb_C_6] FALSE
+[2019.01.26-02.56.26:543][283]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.28:402][449]LogBlueprintUserMessages: [FireOrb_C_7] FALSE
+[2019.01.26-02.56.28:574][465]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.29:430][541]LogBlueprintUserMessages: [FireOrb_C_7] FALSE
+[2019.01.26-02.56.29:507][548]SpeechRecognitionPlugin: Word: earth ball Start Time: 24.230 End Time 24.540
+[2019.01.26-02.56.29:508][548]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.56.29:508][548]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.56.29:508][548]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.56.29:984][591]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.30:313][620]LogBlueprintUserMessages: [FireOrb_C_7] FALSE
+[2019.01.26-02.56.30:449][633]SpeechRecognitionPlugin: Word: earth ball Start Time: 25.040 End Time 25.350
+[2019.01.26-02.56.30:449][633]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.56.30:449][633]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.56.30:449][633]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.56.31:542][731]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.34:435][989]LogBlueprintUserMessages: [FireOrb_C_8] FALSE
+[2019.01.26-02.56.35:290][ 66]SpeechRecognitionPlugin: Word: earth ball Start Time: 28.240 End Time 28.530
+[2019.01.26-02.56.35:290][ 66]SpeechRecognitionPlugin: Word: water ball Start Time: 27.700 End Time 27.980
+[2019.01.26-02.56.35:290][ 66]SpeechRecognitionPlugin: Word: earth ball Start Time: 27.360 End Time 27.580
+[2019.01.26-02.56.35:290][ 66]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.56.35:290][ 66]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.56.35:290][ 66]SpeechRecognitionPlugin: water ball
+[2019.01.26-02.56.35:290][ 66]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-02.56.35:290][ 66]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.56.35:290][ 66]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-02.56.35:449][ 80]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.35:473][ 82]LogBlueprintUserMessages: [FireOrb_C_8] FALSE
+[2019.01.26-02.56.36:333][159]LogBlueprintUserMessages: [FireOrb_C_8] FALSE
+[2019.01.26-02.56.37:637][276]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.39:510][444]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.40:466][529]LogBlueprintUserMessages: [FireOrb_C_9] FALSE
+[2019.01.26-02.56.42:320][695]LogBlueprintUserMessages: [FireOrb_C_9] FALSE
+[2019.01.26-02.56.42:476][709]LogBlueprintUserMessages: [FireOrb_C_10] FALSE
+[2019.01.26-02.56.43:109][766]SpeechRecognitionPlugin: Word: earth ball Start Time: 34.570 End Time 34.790
+[2019.01.26-02.56.43:109][766]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.56.43:109][766]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.56.43:109][766]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.56.43:482][799]LogBlueprintUserMessages: [FireOrb_C_11] FALSE
+[2019.01.26-02.56.44:363][878]LogBlueprintUserMessages: [FireOrb_C_10] FALSE
+[2019.01.26-02.56.45:142][948]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.45:380][969]LogBlueprintUserMessages: [FireOrb_C_11] FALSE
+[2019.01.26-02.56.46:862][102]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.48:256][227]SpeechRecognitionPlugin: Word: earth ball Start Time: 42.360 End Time 42.600
+[2019.01.26-02.56.48:256][227]SpeechRecognitionPlugin: Word: earth ball Start Time: 41.910 End Time 42.090
+[2019.01.26-02.56.48:256][227]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.56.48:256][227]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.56.48:256][227]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.56.48:420][242]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.52:529][609]LogBlueprintUserMessages: [FireOrb_C_12] FALSE
+[2019.01.26-02.56.54:450][781]LogBlueprintUserMessages: [FireOrb_C_12] FALSE
+[2019.01.26-02.56.54:540][789]LogBlueprintUserMessages: [FireOrb_C_13] FALSE
+[2019.01.26-02.56.55:137][843]SpeechRecognitionPlugin: Word: water ball Start Time: 48.070 End Time 48.350
+[2019.01.26-02.56.55:137][843]SpeechRecognitionPlugin: Word: earth ball Start Time: 48.000 End Time 48.220
+[2019.01.26-02.56.55:137][843]SpeechRecognitionPlugin: Word: water ball Start Time: 45.310 End Time 45.560
+[2019.01.26-02.56.55:137][843]SpeechRecognitionPlugin: Word: earth ball Start Time: 45.310 End Time 45.560
+[2019.01.26-02.56.55:137][843]SpeechRecognitionPlugin: Word: earth ball Start Time: 43.590 End Time 43.840
+[2019.01.26-02.56.55:137][843]SpeechRecognitionPlugin: Word: water ball Start Time: 43.510 End Time 43.840
+[2019.01.26-02.56.55:137][843]SpeechRecognitionPlugin: water ball
+[2019.01.26-02.56.55:137][843]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-02.56.55:137][843]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.56.55:137][843]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.56.55:137][843]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-02.56.55:137][843]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.56.55:545][879]LogBlueprintUserMessages: [FireOrb_C_14] FALSE
+[2019.01.26-02.56.55:763][899]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.56:406][956]LogBlueprintUserMessages: [FireOrb_C_13] FALSE
+[2019.01.26-02.56.57:399][ 45]LogBlueprintUserMessages: [FireOrb_C_14] FALSE
+[2019.01.26-02.56.58:107][109]SpeechRecognitionPlugin: Word: earth ball Start Time: 51.620 End Time 51.810
+[2019.01.26-02.56.58:107][109]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.56.58:107][109]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.56.58:107][109]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.56.58:418][137]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.56.58:561][149]LogBlueprintUserMessages: [FireOrb_C_15] FALSE
+[2019.01.26-02.57.00:426][315]LogBlueprintUserMessages: [FireOrb_C_15] FALSE
+[2019.01.26-02.57.04:593][688]LogBlueprintUserMessages: [FireOrb_C_16] FALSE
+[2019.01.26-02.57.05:598][778]LogBlueprintUserMessages: [FireOrb_C_17] FALSE
+[2019.01.26-02.57.06:447][854]LogBlueprintUserMessages: [FireOrb_C_16] FALSE
+[2019.01.26-02.57.07:508][949]LogBlueprintUserMessages: [FireOrb_C_17] FALSE
+[2019.01.26-02.57.09:619][138]LogBlueprintUserMessages: [FireOrb_C_18] FALSE
+[2019.01.26-02.57.11:485][305]LogBlueprintUserMessages: [FireOrb_C_18] FALSE
+[2019.01.26-02.57.11:630][318]LogBlueprintUserMessages: [FireOrb_C_19] FALSE
+[2019.01.26-02.57.13:506][486]LogBlueprintUserMessages: [FireOrb_C_19] FALSE
+[2019.01.26-02.57.13:640][498]LogBlueprintUserMessages: [FireOrb_C_20] FALSE
+[2019.01.26-02.57.14:646][588]LogBlueprintUserMessages: [FireOrb_C_21] FALSE
+[2019.01.26-02.57.15:495][664]LogBlueprintUserMessages: [FireOrb_C_20] FALSE
+[2019.01.26-02.57.15:975][707]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.57.16:051][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.57.16:079][707]LogSlate: Window 'EMMI Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.26-02.57.16:147][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-02.57.16:147][707]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.57.16:198][708]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.26-02.57.58:871][689]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-02.57.58:881][689]LogBlueprint: Warning: [Compiler FireOrb] 'Motion Controller Component' does not inherit from 'Actor' ( Cast To MotionControllerComponent  would always fail).
+[2019.01.26-02.57.59:021][689]LogBlueprint: Warning: [Compiler FireOrb] [0431,27] Compile of FireOrb successful, but with 1 Warning(s) [in 149 ms] (/Game/Projectile_Zone/FireOrb.FireOrb)
+[2019.01.26-02.58.27:930][873]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-02.58.33:009][437]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-02.58.35:244][684]LogTemp: Repeating last play command: VR Preview
+[2019.01.26-02.58.35:256][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.58.35:257][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-02.58.35:257][684]PIE: New page: PIE session: BoucliersOrbes (26 janv. 2019 04:58:35)
+[2019.01.26-02.58.35:257][684]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes
+[2019.01.26-02.58.35:266][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008966s)
+[2019.01.26-02.58.35:266][684]LogAIModule: Creating AISystem for world BoucliersOrbes
+[2019.01.26-02.58.35:266][684]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2019.01.26-02.58.35:266][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes to /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes (0.009575s)
+[2019.01.26-02.58.35:336][684]LogInit: XAudio2 using 'Haut-parleurs (8- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-02.58.35:348][684]LogInit: FAudioDevice initialized.
+[2019.01.26-02.58.35:354][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.58.35:427][684]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-02.58.35:427][684]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-02.58.35:429][684]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes up for play (max tick rate 0) at 2019.01.26-03.58.35
+[2019.01.26-02.58.35:430][684]LogWorld: Bringing up level for play took: 0.002190
+[2019.01.26-02.58.35:454][684]LogBlueprintUserMessages: [Voice_2] Speech Recognition Init : SUCCESS
+[2019.01.26-02.58.35:461][684]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes 0,292
+[2019.01.26-02.58.35:461][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.58.35:520][686]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.01.26-02.58.35:611][695]SpeechRecognitionPlugin: Speech Recognition has started
+[2019.01.26-02.58.35:930][724]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.58.38:254][931]LogBlueprintUserMessages: [FireOrb_C_0] FALSE
+[2019.01.26-02.58.40:131][ 99]LogBlueprintUserMessages: [FireOrb_C_0] FALSE
+[2019.01.26-02.58.40:266][111]LogBlueprintUserMessages: [FireOrb_C_1] FALSE
+[2019.01.26-02.58.42:152][280]LogBlueprintUserMessages: [FireOrb_C_1] FALSE
+[2019.01.26-02.58.42:647][325]SpeechRecognitionPlugin: Word: fire ball Start Time: 3.370 End Time 3.560
+[2019.01.26-02.58.42:647][325]SpeechRecognitionPlugin: fire ball
+[2019.01.26-02.58.42:647][325]SpeechRecognitionPlugin: Phrases: fire ball 
+[2019.01.26-02.58.42:647][325]LogBlueprintUserMessages: [Voice_2] fire ball
+[2019.01.26-02.58.43:753][424]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.58.44:287][471]LogBlueprintUserMessages: [FireOrb_C_2] FALSE
+[2019.01.26-02.58.46:197][642]LogBlueprintUserMessages: [FireOrb_C_2] FALSE
+[2019.01.26-02.58.46:298][651]LogBlueprintUserMessages: [FireOrb_C_3] FALSE
+[2019.01.26-02.58.47:303][741]LogBlueprintUserMessages: [FireOrb_C_4] FALSE
+[2019.01.26-02.58.47:437][753]LogBlueprintUserMessages: [FireOrb_C_3] TRUUUUUUUUUE
+[2019.01.26-02.58.47:813][787]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.58.48:207][822]LogBlueprintUserMessages: [FireOrb_C_3] FALSE
+[2019.01.26-02.58.48:308][831]LogBlueprintUserMessages: [FireOrb_C_5] FALSE
+[2019.01.26-02.58.49:058][899]SpeechRecognitionPlugin: Word: earth ball Start Time: 11.930 End Time 12.380
+[2019.01.26-02.58.49:058][899]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.58.49:058][899]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.58.49:058][899]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.58.49:225][913]LogBlueprintUserMessages: [FireOrb_C_4] FALSE
+[2019.01.26-02.58.49:380][927]LogBlueprintUserMessages: [FireOrb_C_5] TRUUUUUUUUUE
+[2019.01.26-02.58.49:527][941]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.58.50:184][999]LogBlueprintUserMessages: [FireOrb_C_5] FALSE
+[2019.01.26-02.58.50:319][ 11]LogBlueprintUserMessages: [FireOrb_C_6] FALSE
+[2019.01.26-02.58.51:424][110]LogBlueprintUserMessages: [FireOrb_C_6] TRUUUUUUUUUE
+[2019.01.26-02.58.52:240][183]LogBlueprintUserMessages: [FireOrb_C_6] FALSE
+[2019.01.26-02.58.53:121][262]SpeechRecognitionPlugin: Word: earth ball Start Time: 13.910 End Time 14.090
+[2019.01.26-02.58.53:121][262]SpeechRecognitionPlugin: Word: fire ball Start Time: 13.830 End Time 14.090
+[2019.01.26-02.58.53:121][262]SpeechRecognitionPlugin: Word: water ball Start Time: 13.750 End Time 14.090
+[2019.01.26-02.58.53:121][262]SpeechRecognitionPlugin: water ball
+[2019.01.26-02.58.53:121][262]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-02.58.53:121][262]SpeechRecognitionPlugin: fire ball
+[2019.01.26-02.58.53:121][262]SpeechRecognitionPlugin: Phrases: fire ball 
+[2019.01.26-02.58.53:121][262]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.58.53:121][262]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.58.53:121][262]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-02.58.53:121][262]LogBlueprintUserMessages: [Voice_2] fire ball
+[2019.01.26-02.58.53:121][262]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.58.53:335][281]LogBlueprintUserMessages: [FireOrb_C_7] FALSE
+[2019.01.26-02.58.53:432][290]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.58.55:180][446]LogBlueprintUserMessages: [FireOrb_C_7] FALSE
+[2019.01.26-02.58.55:345][461]LogBlueprintUserMessages: [FireOrb_C_8] FALSE
+[2019.01.26-02.58.56:462][561]LogBlueprintUserMessages: [FireOrb_C_8] TRUUUUUUUUUE
+[2019.01.26-02.58.56:710][584]SpeechRecognitionPlugin: Word: water ball Start Time: 19.090 End Time 19.440
+[2019.01.26-02.58.56:710][584]SpeechRecognitionPlugin: Word: earth ball Start Time: 19.270 End Time 19.440
+[2019.01.26-02.58.56:710][584]SpeechRecognitionPlugin: Word: earth ball Start Time: 18.340 End Time 18.490
+[2019.01.26-02.58.56:710][584]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.58.56:710][584]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.58.56:710][584]SpeechRecognitionPlugin: water ball
+[2019.01.26-02.58.56:710][584]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-02.58.56:710][584]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.58.56:710][584]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-02.58.57:221][629]LogBlueprintUserMessages: [FireOrb_C_8] FALSE
+[2019.01.26-02.58.57:344][640]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.58.58:361][731]LogBlueprintUserMessages: [FireOrb_C_9] FALSE
+[2019.01.26-02.58.59:366][821]LogBlueprintUserMessages: [FireOrb_C_10] FALSE
+[2019.01.26-02.59.00:259][901]LogBlueprintUserMessages: [FireOrb_C_9] FALSE
+[2019.01.26-02.59.01:254][990]LogBlueprintUserMessages: [FireOrb_C_10] FALSE
+[2019.01.26-02.59.01:377][  1]LogBlueprintUserMessages: [FireOrb_C_11] FALSE
+[2019.01.26-02.59.01:397][  3]SpeechRecognitionPlugin: Word: earth ball Start Time: 22.580 End Time 22.950
+[2019.01.26-02.59.01:397][  3]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.59.01:397][  3]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.59.01:397][  3]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.59.01:432][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.59.01:512][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.59.01:540][  6]LogSlate: Window 'EMMI Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.26-02.59.01:587][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-02.59.01:587][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.59.01:641][  7]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.26-02.59.08:956][801]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-02.59.11:231][ 53]LogTemp: Repeating last play command: VR Preview
+[2019.01.26-02.59.11:245][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.59.11:245][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-02.59.11:245][ 53]PIE: New page: PIE session: BoucliersOrbes (26 janv. 2019 04:59:11)
+[2019.01.26-02.59.11:245][ 53]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes
+[2019.01.26-02.59.11:253][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008588s)
+[2019.01.26-02.59.11:254][ 53]LogAIModule: Creating AISystem for world BoucliersOrbes
+[2019.01.26-02.59.11:254][ 53]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2019.01.26-02.59.11:254][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes to /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes (0.009221s)
+[2019.01.26-02.59.11:326][ 53]LogInit: XAudio2 using 'Haut-parleurs (8- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-02.59.11:339][ 53]LogInit: FAudioDevice initialized.
+[2019.01.26-02.59.11:344][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.59.11:418][ 53]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-02.59.11:418][ 53]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-02.59.11:421][ 53]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes up for play (max tick rate 0) at 2019.01.26-03.59.11
+[2019.01.26-02.59.11:421][ 53]LogWorld: Bringing up level for play took: 0.002271
+[2019.01.26-02.59.11:445][ 53]LogBlueprintUserMessages: [Voice_2] Speech Recognition Init : SUCCESS
+[2019.01.26-02.59.11:452][ 53]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes 0,283
+[2019.01.26-02.59.11:452][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.59.11:512][ 55]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.01.26-02.59.11:601][ 64]SpeechRecognitionPlugin: Speech Recognition has started
+[2019.01.26-02.59.11:920][ 93]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.59.13:452][223]LogBlueprintUserMessages: [FireOrb_C_0] TRUUUUUUUUUE
+[2019.01.26-02.59.20:344][840]LogBlueprintUserMessages: [FireOrb_C_5] TRUUUUUUUUUE
+[2019.01.26-02.59.20:513][856]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.59.21:758][967]SpeechRecognitionPlugin: Word: earth ball Start Time: 8.910 End Time 9.200
+[2019.01.26-02.59.21:760][967]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.59.21:760][967]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.59.21:760][967]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.59.22:231][  9]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.59.23:953][164]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.59.25:471][299]LogBlueprintUserMessages: [FireOrb_C_6] TRUUUUUUUUUE
+[2019.01.26-02.59.27:701][499]SpeechRecognitionPlugin: Word: earth ball Start Time: 13.040 End Time 13.270
+[2019.01.26-02.59.27:701][499]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.59.27:701][499]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.59.27:701][499]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.59.28:010][527]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.59.29:458][655]LogBlueprintUserMessages: [FireOrb_C_7] TRUUUUUUUUUE
+[2019.01.26-02.59.32:076][890]SpeechRecognitionPlugin: Word: earth ball Start Time: 18.920 End Time 19.210
+[2019.01.26-02.59.32:076][890]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.59.32:076][890]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.59.32:076][890]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.59.32:393][918]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.59.34:473][104]LogBlueprintUserMessages: [FireOrb_C_8] TRUUUUUUUUUE
+[2019.01.26-02.59.37:388][365]SpeechRecognitionPlugin: Word: water ball Start Time: 24.890 End Time 25.140
+[2019.01.26-02.59.37:389][365]SpeechRecognitionPlugin: Word: earth ball Start Time: 24.790 End Time 24.970
+[2019.01.26-02.59.37:389][365]SpeechRecognitionPlugin: Word: earth ball Start Time: 21.850 End Time 22.110
+[2019.01.26-02.59.37:389][365]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.59.37:389][365]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.59.37:389][365]SpeechRecognitionPlugin: water ball
+[2019.01.26-02.59.37:389][365]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-02.59.37:389][365]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.59.37:389][365]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-02.59.38:013][421]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.59.40:358][631]SpeechRecognitionPlugin: Word: water ball Start Time: 26.890 End Time 27.120
+[2019.01.26-02.59.40:358][631]SpeechRecognitionPlugin: Word: earth ball Start Time: 26.960 End Time 27.120
+[2019.01.26-02.59.40:358][631]SpeechRecognitionPlugin: water ball
+[2019.01.26-02.59.40:358][631]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-02.59.40:358][631]SpeechRecognitionPlugin: earth ball
+[2019.01.26-02.59.40:358][631]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-02.59.40:358][631]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-02.59.40:358][631]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-02.59.41:443][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.59.41:453][728]SpeechRecognitionPlugin: Listening
+[2019.01.26-02.59.41:521][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-02.59.41:551][728]LogSlate: Window 'EMMI Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.26-02.59.41:596][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-02.59.41:596][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-02.59.41:645][729]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.26-03.00.02:804][ 53]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-03.00.05:633][362]LogTemp: Repeating last play command: VR Preview
+[2019.01.26-03.00.05:645][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-03.00.05:645][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-03.00.05:646][362]PIE: New page: PIE session: BoucliersOrbes (26 janv. 2019 05:00:05)
+[2019.01.26-03.00.05:646][362]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes
+[2019.01.26-03.00.05:653][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008755s)
+[2019.01.26-03.00.05:654][362]LogAIModule: Creating AISystem for world BoucliersOrbes
+[2019.01.26-03.00.05:654][362]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2019.01.26-03.00.05:654][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes to /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes (0.009394s)
+[2019.01.26-03.00.05:729][362]LogInit: XAudio2 using 'Haut-parleurs (8- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.00.05:741][362]LogInit: FAudioDevice initialized.
+[2019.01.26-03.00.05:747][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.00.05:820][362]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-03.00.05:820][362]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-03.00.05:822][362]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes up for play (max tick rate 0) at 2019.01.26-04.00.05
+[2019.01.26-03.00.05:823][362]LogWorld: Bringing up level for play took: 0.002163
+[2019.01.26-03.00.05:846][362]LogBlueprintUserMessages: [Voice_2] Speech Recognition Init : SUCCESS
+[2019.01.26-03.00.05:853][362]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes 0,684
+[2019.01.26-03.00.05:853][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-03.00.05:915][364]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.01.26-03.00.05:997][373]SpeechRecognitionPlugin: Speech Recognition has started
+[2019.01.26-03.00.06:309][401]SpeechRecognitionPlugin: Listening
+[2019.01.26-03.00.13:504][ 45]SpeechRecognitionPlugin: Listening
+[2019.01.26-03.00.16:942][352]SpeechRecognitionPlugin: Listening
+[2019.01.26-03.00.17:719][422]SpeechRecognitionPlugin: Word: water ball Start Time: 10.620 End Time 10.960
+[2019.01.26-03.00.17:719][422]SpeechRecognitionPlugin: water ball
+[2019.01.26-03.00.17:719][422]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-03.00.17:719][422]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-03.00.17:880][436]SpeechRecognitionPlugin: Listening
+[2019.01.26-03.00.19:909][618]SpeechRecognitionPlugin: Word: earth ball Start Time: 12.210 End Time 12.500
+[2019.01.26-03.00.19:909][618]SpeechRecognitionPlugin: earth ball
+[2019.01.26-03.00.19:909][618]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-03.00.19:909][618]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-03.00.20:223][646]SpeechRecognitionPlugin: Listening
+[2019.01.26-03.00.21:309][743]SpeechRecognitionPlugin: Listening
+[2019.01.26-03.00.22:717][869]SpeechRecognitionPlugin: Listening
+[2019.01.26-03.00.29:438][471]SpeechRecognitionPlugin: Word: water ball Start Time: 18.300 End Time 18.650
+[2019.01.26-03.00.29:438][471]SpeechRecognitionPlugin: Word: earth ball Start Time: 18.240 End Time 18.400
+[2019.01.26-03.00.29:438][471]SpeechRecognitionPlugin: earth ball
+[2019.01.26-03.00.29:438][471]SpeechRecognitionPlugin: Phrases: earth ball 
+[2019.01.26-03.00.29:438][471]SpeechRecognitionPlugin: water ball
+[2019.01.26-03.00.29:438][471]SpeechRecognitionPlugin: Phrases: water ball 
+[2019.01.26-03.00.29:438][471]LogBlueprintUserMessages: [Voice_2] earth ball
+[2019.01.26-03.00.29:438][471]LogBlueprintUserMessages: [Voice_2] water ball
+[2019.01.26-03.00.29:521][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-03.00.29:601][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.00.29:629][478]LogSlate: Window 'EMMI Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.26-03.00.29:676][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-03.00.29:676][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-03.00.29:725][479]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.26-03.00.57:081][664]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.01.26:677][ 82]BlueprintLog: New page: Compile FireOrb
+[2019.01.26-03.01.28:482][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.01.28:540][284]LogTemp: Repeating last play command: VR Preview
+[2019.01.26-03.01.28:553][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes' with GeneratedClass '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes:PersistentLevel.BoucliersOrbes'
+[2019.01.26-03.01.28:553][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-03.01.28:553][284]PIE: New page: PIE session: BoucliersOrbes (26 janv. 2019 05:01:28)
+[2019.01.26-03.01.28:553][284]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes
+[2019.01.26-03.01.28:561][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008313s)
+[2019.01.26-03.01.28:562][284]LogAIModule: Creating AISystem for world BoucliersOrbes
+[2019.01.26-03.01.28:562][284]LogPlayLevel: PIE: World Init took: (0.000479s)
+[2019.01.26-03.01.28:562][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/BoucliersOrbes.BoucliersOrbes to /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes (0.008905s)
+[2019.01.26-03.01.28:636][284]LogInit: XAudio2 using 'Haut-parleurs (8- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.01.28:648][284]LogInit: FAudioDevice initialized.
+[2019.01.26-03.01.28:653][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.01.28:727][284]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.26-03.01.28:727][284]LogLoad: Game class is 'GameModeBase'
+[2019.01.26-03.01.28:729][284]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_BoucliersOrbes.BoucliersOrbes up for play (max tick rate 0) at 2019.01.26-04.01.28
+[2019.01.26-03.01.28:730][284]LogWorld: Bringing up level for play took: 0.002006
+[2019.01.26-03.01.28:754][284]LogBlueprintUserMessages: [Voice_2] Speech Recognition Init : SUCCESS
+[2019.01.26-03.01.28:755][284]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2019.01.26-03.01.28:755][284]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2019.01.26-03.01.29:475][284]SpeechRecognitionPlugin: Speech Recognition has started
+[2019.01.26-03.01.29:475][284]SpeechRecognitionPlugin: Listening
+[2019.01.26-03.01.29:475][284]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.720 s
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: 
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\Matrix.cpp] [Line: 8]
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: Stack: 
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fba28f6a UE4Editor-Core.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f04a53aa UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f0e9afdd UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ed9894 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb2c4b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb52bc2a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb5556cc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb557d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb52c5dd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb57add3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb557d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb52c5dd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb557d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb2c4b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb5573c6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f0583923 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f054725c UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f0553c95 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f057f3b8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f056270f UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f0cd36df UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f05b7456 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb2c4b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb52bc2a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb5556cc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb5771c6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb557d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb52c5dd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb557d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb2c4b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8fb5573c6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f0583923 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f054725c UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f0553c95 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f19a060c UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f0d5eb41 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f194865e UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f0cfc1f1 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f999ac89 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.26-03.01.29:475][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f99bb350 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f99d92e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f93d1891 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: [Callstack] 0x00007ff8f9cf2346 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: [Callstack] 0x00007ff61eae6225 UE4Editor.exe!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: [Callstack] 0x00007ff61eaf596c UE4Editor.exe!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: [Callstack] 0x00007ff61eaf59ea UE4Editor.exe!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: [Callstack] 0x00007ff61eb048da UE4Editor.exe!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: [Callstack] 0x00007ff61eb0659a UE4Editor.exe!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: [Callstack] 0x00007ff96d313034 KERNEL32.DLL!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: [Callstack] 0x00007ff96e163691 ntdll.dll!UnknownFunction []
+[2019.01.26-03.01.29:476][284]LogOutputDevice: Error: 
+[2019.01.26-03.01.29:478][284]LogStats:                SubmitErrorReport -  0.000 s
